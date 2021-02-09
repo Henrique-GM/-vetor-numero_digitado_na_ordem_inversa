@@ -1,0 +1,1 @@
+# -vetor-numero_digitado_na_ordem_inversa
